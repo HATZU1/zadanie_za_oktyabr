@@ -1,0 +1,8 @@
+docker login 
+docker run nginx
+docker run gitea
+docker ps
+touch Dockerfile
+touch docker-compose.yml
+ls
+
